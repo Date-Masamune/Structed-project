@@ -6,7 +6,7 @@ namespace Structured_project
    {
       static void Main(string[] args)
       {
-         Console.WriteLine("Hello Jacob!");
+         Console.WriteLine("Howdy!");
          
       }
    }
